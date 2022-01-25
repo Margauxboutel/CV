@@ -1,4 +1,5 @@
 index.md
+theme: jekyll-theme-minimal
 # Margaux Boutel - 21 ans
 # Chargée en communication - Disponible dès juillet 2023
 # Pour plus d'informations retrouvez mon portefolio: https://wix.to/1SGJt58?
