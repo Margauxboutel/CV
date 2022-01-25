@@ -3,7 +3,7 @@ theme: jekyll-theme-minimal
 ![This is a alt text.](DSCF4028.png "This is a sample image.")
 # Margaux Boutel - 21 ans
 # Chargée en communication - Disponible dès juillet 2023
-# Pour plus d'informations retrouvez mon portefolio: https://wix.to/1SGJt58?
+# Pour plus d'informations retrouvez mon portefolio: https://wix.to/1SGJt58
 
 ## *Contact*
 - boutelmargaux@gmail.com
